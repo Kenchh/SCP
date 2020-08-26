@@ -1,0 +1,11 @@
+name: SCP
+version: 1.0
+author: FreakzBoy
+
+main: me.freakzboy.main.SCP
+
+commands:
+   scpoff:
+      description:
+   scpon:
+      description:
